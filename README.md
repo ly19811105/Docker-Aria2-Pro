@@ -99,6 +99,8 @@ docker-compose -f aria2-pro.yml up -d
 
 I am working hard on my English, so this part may be explained in detail later. If you can read Chinese, read the details in [my blog](https://p3terx.com/archives/docker-aria2-pro.html).
 
+## Update Trackers -date()
+Download the TrackerUpdate.sh to docker config dictionary and bash This shell.Enjoy. 
 ## Credits
 
 * [aria2](https://github.com/aria2/aria2)
